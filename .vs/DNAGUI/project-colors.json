@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b373c384-73db-4e80-8c13-83acfbdcdd80": {
+      "ProjectGuid": "b373c384-73db-4e80-8c13-83acfbdcdd80",
+      "DisplayName": "DNAGUI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
